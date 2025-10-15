@@ -7,6 +7,8 @@ import org.springframework.web.context.support.AnnotationConfigWebApplicationCon
 import org.springframework.web.servlet.DispatcherServlet;
 
 public class WebConfig implements WebApplicationInitializer  {
+	
+	
 
 public void onStartup(ServletContext servletContext){
 
